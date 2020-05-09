@@ -10,4 +10,6 @@ print('Addition Implemented')
 c=10
 d=5
 print(a-b)
-
+e=10
+f=4
+print(e*f)
